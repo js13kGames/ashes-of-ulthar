@@ -1,4 +1,8 @@
 ---
+genres:
+  - simulation
+  - horror
+  - survival
 directors_cut: https://ashes-of-ulthar.7tonshark.com
 post:
   url: https://7tonshark.com/posts/making-of-js13k-2025-ashes-of-ulthar/
